@@ -1,0 +1,25 @@
+{
+  "allExecutables" : [
+
+  ],
+  "builtTestProducts" : [
+    {
+      "packageName" : "rides-ios-sdk",
+      "productName" : "rides-ios-sdkPackageTests",
+      "testBinary" : "\/Users\/vladymyrzgonyk\/Develops\/rides-ios-sdk\/.build\/x86_64-apple-macosx\/debug\/rides-ios-sdkPackageTests.xctest\/Contents\/MacOS\/rides-ios-sdkPackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "rootExecutables" : [
+
+  ],
+  "swiftTargetMap" : {
+    "C.rides-ios-sdk-debug.module" : "rides-ios-sdk",
+    "C.rides-ios-sdkTests-debug.module" : "rides-ios-sdkTests"
+  },
+  "testDiscoveryCommands" : {
+
+  }
+}

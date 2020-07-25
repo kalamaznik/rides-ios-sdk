@@ -1,0 +1,20 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "rides_ios_sdk"
+provides-nominal:
+- "13rides_ios_sdkAAV"
+provides-member:
+- ["13rides_ios_sdkAAV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "StringLiteralType"
+- "rides_ios_sdk"
+depends-member:
+- ["13rides_ios_sdkAAV", "init"]
+- ["13rides_ios_sdkAAV", "text"]
+depends-nominal:
+- "13rides_ios_sdkAAV"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/vladymyrzgonyk/Develops/rides-ios-sdk/.build/x86_64-apple-macosx/debug/rides_ios_sdk.build/module.modulemap"
+interface-hash: "1d477dd8801ffa705e6e67616cde5932"

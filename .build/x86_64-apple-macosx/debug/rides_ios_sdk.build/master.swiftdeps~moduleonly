@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "fff89eaf19767066026e039af18832bc"
+build_time: [1595675902, 144071000]
+inputs:
+  "/Users/vladymyrzgonyk/Develops/rides-ios-sdk/Sources/rides-ios-sdk/rides_ios_sdk.swift": [1595675881, 208997633]

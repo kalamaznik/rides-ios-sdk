@@ -1,0 +1,4 @@
+module rides_ios_sdk {
+    header "/Users/vladymyrzgonyk/Develops/rides-ios-sdk/.build/x86_64-apple-macosx/debug/rides_ios_sdk.build/rides-ios-sdk-Swift.h"
+    requires objc
+}

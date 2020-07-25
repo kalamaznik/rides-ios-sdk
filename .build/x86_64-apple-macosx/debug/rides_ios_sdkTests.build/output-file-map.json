@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/vladymyrzgonyk/Develops/rides-ios-sdk/.build/x86_64-apple-macosx/debug/rides_ios_sdkTests.build/master.swiftdeps"
+  },
+  "/Users/vladymyrzgonyk/Develops/rides-ios-sdk/Tests/rides-ios-sdkTests/XCTestManifests.swift": {
+    "dependencies": "/Users/vladymyrzgonyk/Develops/rides-ios-sdk/.build/x86_64-apple-macosx/debug/rides_ios_sdkTests.build/XCTestManifests.d",
+    "object": "/Users/vladymyrzgonyk/Develops/rides-ios-sdk/.build/x86_64-apple-macosx/debug/rides_ios_sdkTests.build/XCTestManifests.swift.o",
+    "swiftmodule": "/Users/vladymyrzgonyk/Develops/rides-ios-sdk/.build/x86_64-apple-macosx/debug/rides_ios_sdkTests.build/XCTestManifests~partial.swiftmodule",
+    "swift-dependencies": "/Users/vladymyrzgonyk/Develops/rides-ios-sdk/.build/x86_64-apple-macosx/debug/rides_ios_sdkTests.build/XCTestManifests.swiftdeps"
+  },
+  "/Users/vladymyrzgonyk/Develops/rides-ios-sdk/Tests/rides-ios-sdkTests/rides_ios_sdkTests.swift": {
+    "dependencies": "/Users/vladymyrzgonyk/Develops/rides-ios-sdk/.build/x86_64-apple-macosx/debug/rides_ios_sdkTests.build/rides_ios_sdkTests.d",
+    "object": "/Users/vladymyrzgonyk/Develops/rides-ios-sdk/.build/x86_64-apple-macosx/debug/rides_ios_sdkTests.build/rides_ios_sdkTests.swift.o",
+    "swiftmodule": "/Users/vladymyrzgonyk/Develops/rides-ios-sdk/.build/x86_64-apple-macosx/debug/rides_ios_sdkTests.build/rides_ios_sdkTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/vladymyrzgonyk/Develops/rides-ios-sdk/.build/x86_64-apple-macosx/debug/rides_ios_sdkTests.build/rides_ios_sdkTests.swiftdeps"
+  }
+}

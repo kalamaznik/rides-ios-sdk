@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "9ea51dbb7ee6fa2bb15039539e206f84"
+build_time: [1595675915, 657083000]
+inputs:
+  "/Users/vladymyrzgonyk/Develops/rides-ios-sdk/Tests/rides-ios-sdkTests/XCTestManifests.swift": [1595675881, 210150667]
+  "/Users/vladymyrzgonyk/Develops/rides-ios-sdk/Tests/rides-ios-sdkTests/rides_ios_sdkTests.swift": [1595675881, 209916313]

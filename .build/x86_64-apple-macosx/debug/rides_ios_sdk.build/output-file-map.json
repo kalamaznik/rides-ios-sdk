@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/vladymyrzgonyk/Develops/rides-ios-sdk/.build/x86_64-apple-macosx/debug/rides_ios_sdk.build/master.swiftdeps"
+  },
+  "/Users/vladymyrzgonyk/Develops/rides-ios-sdk/Sources/rides-ios-sdk/rides_ios_sdk.swift": {
+    "dependencies": "/Users/vladymyrzgonyk/Develops/rides-ios-sdk/.build/x86_64-apple-macosx/debug/rides_ios_sdk.build/rides_ios_sdk.d",
+    "object": "/Users/vladymyrzgonyk/Develops/rides-ios-sdk/.build/x86_64-apple-macosx/debug/rides_ios_sdk.build/rides_ios_sdk.swift.o",
+    "swiftmodule": "/Users/vladymyrzgonyk/Develops/rides-ios-sdk/.build/x86_64-apple-macosx/debug/rides_ios_sdk.build/rides_ios_sdk~partial.swiftmodule",
+    "swift-dependencies": "/Users/vladymyrzgonyk/Develops/rides-ios-sdk/.build/x86_64-apple-macosx/debug/rides_ios_sdk.build/rides_ios_sdk.swiftdeps"
+  }
+}
